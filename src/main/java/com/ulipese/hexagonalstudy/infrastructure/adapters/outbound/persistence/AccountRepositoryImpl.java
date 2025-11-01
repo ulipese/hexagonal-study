@@ -1,4 +1,4 @@
-package com.ulipese.hexagonalstudy.adapters.outbound.persistence;
+package com.ulipese.hexagonalstudy.infrastructure.adapters.outbound.persistence;
 
 import com.ulipese.hexagonalstudy.domain.entities.Account;
 import com.ulipese.hexagonalstudy.domain.ports.outbound.repositories.AccountRepository;

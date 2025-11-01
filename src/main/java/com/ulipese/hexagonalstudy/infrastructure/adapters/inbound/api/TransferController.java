@@ -1,4 +1,4 @@
-package com.ulipese.hexagonalstudy.adapters.inbound.api;
+package com.ulipese.hexagonalstudy.infrastructure.adapters.inbound.api;
 
 import com.ulipese.hexagonalstudy.application.dtos.TransferRequestDTO;
 import com.ulipese.hexagonalstudy.domain.ports.inbound.usecases.TransferUseCase;

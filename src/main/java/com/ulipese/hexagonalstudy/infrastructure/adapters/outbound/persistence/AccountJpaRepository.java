@@ -1,4 +1,4 @@
-package com.ulipese.hexagonalstudy.adapters.outbound.persistence;
+package com.ulipese.hexagonalstudy.infrastructure.adapters.outbound.persistence;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
